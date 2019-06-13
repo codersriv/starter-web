@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Srivatsan Srikanth   vatsans02@gmail.com
 
 # THANKS
 
